@@ -1,9 +1,11 @@
 <?php
-    if($_GET[""])
-    {
+    // if($_GET[""])
+    // {
 
-    }else{
-        include"home/main.php";
-        $title="TPKAD - HOME";
-    }
+    // }else{
+    //     include"home/main.php";
+    //     $title="TPKAD - HOME";
+    // }
+    include"home/main.php";
+    $title="TPKAD - HOME";
 ?>
