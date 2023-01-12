@@ -10,7 +10,7 @@
     <div class="col">
         <div class="card">
             <div class="card-header">
-                <img class="w-100" style="object-fit: cover; object-position: center; height: 300px;" src="/asset/img/dana.jpg">
+                <img class="w-100" style="object-fit: cover; object-position: center; height: 300px;" src="asset/img/dana.jpg">
             </div>
             <div class="card-body">
                 <h5 class="card-text">
