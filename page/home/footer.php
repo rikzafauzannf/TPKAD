@@ -9,23 +9,26 @@
     </div> -->
     <div class="col">
             <div class="card-title">
-                <small class="text-white">Selamat Datang</small>
-                <div class="row">
-                <img style="width: 110px; height: 50px; margin-left:10px;" class="rounded bg-white" src="asset/img/Logo_TPAKD.png"/>
+                <div class="row p-3 text-white">
+                    <div class="col-md-12">
+                        <h5>Selamat Datang</h5>
+                    </div>
+                    <div class="col-md-2">
+                        <img style="width: 110px; height: 50px; margin-left:10px;" class="rounded bg-white" src="asset/img/Logo_TPAKD.png"/>
+                    </div>
+                    <div class="col-md-5">
+                        <p >
+                            Kantor Otoritas Jasa Keuangan <br>
+                            Jl HZ Mustofa No. 339A, Tasikmalaya
+                        </p>
+                    </div>
+                    <div class="col-md-3">
+                        <img src="" alt="">
+                    </div>
+                    <div class="col-md-3"></div>
                 </div>
             </div>
-            <p class="col-md-5">
-            Kantor Otoritas Jasa Keuangan <br>  
-            Jl HZ Mustofa No. 339A, Tasikmalaya
-            </p>
-            <!-- <div class="card-body">
-                <h5 class="card-text">
-                    CC INVASI KOMINFO
-                </h5>
-                <p class="text-secondary">
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cum quos explicabo eveniet at asperiores quaerat sit nulla nemo repudiandae voluptate?
-                </p>
-            </div> -->
+            
     </div>
     
 </div>
