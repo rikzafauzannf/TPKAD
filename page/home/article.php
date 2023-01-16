@@ -14,7 +14,7 @@
             </div>
             <div class="card-body">
                 <h5 class="card-text">
-                    CC INVASI KOMINFO
+                    Dana Is My Name
                 </h5>
                 <p class="text-secondary">
                     Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cum quos explicabo eveniet at asperiores quaerat sit nulla nemo repudiandae voluptate?
