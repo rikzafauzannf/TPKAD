@@ -1,9 +1,6 @@
 <?php
-    if($_GET[""])
-    {
-
-    }else{
-        include"home/main.php";
-        $title="TPKAD - HOME";
-    }
-?>
+if ($_GET[""]) {
+} else {
+    $title = "TPKAD - HOME";
+    include "home/main.php";
+}
