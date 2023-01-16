@@ -44,9 +44,10 @@
                             </a>
                             <ul class="dropdown-menu">
                                 <li>
-                                    <a class="dropdown-item" href="#">Action</a>
+                                    <a class="dropdown-item" href="#">KPMR</a>
                                 </li>
-                                <li>
+                                <!-- 
+                                  <li>
                                     <a class="dropdown-item" href="#">Another action</a>
                                 </li>
                                 <li>
@@ -54,6 +55,7 @@
                                     <li>
                                         <a class="dropdown-item" href="#">Something else here</a>
                                     </li>
+                                -->
                                 </ul>
                             </li>
                             <li class="nav-item dropdown ms-4">
@@ -67,16 +69,14 @@
                                 </a>
                                 <ul class="dropdown-menu">
                                     <li>
-                                        <a class="dropdown-item" href="#">Action</a>
+                                        <a class="dropdown-item" href="#">Informasi</a>
                                     </li>
                                     <li>
-                                        <a class="dropdown-item" href="#">Another action</a>
+                                        <a class="dropdown-item" href="#">Dasar Hukum</a>
                                     </li>
                                     <li>
-                                        <hr class="dropdown-divider"></li>
-                                        <li>
-                                            <a class="dropdown-item" href="#">Something else here</a>
-                                        </li>
+                                        <a class="dropdown-item" href="#">SIKP</a>
+                                    </li>
                                     </ul>
                                 </li>
                                 <li class="nav-item mx-2 ms-4">

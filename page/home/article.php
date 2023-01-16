@@ -10,11 +10,11 @@
     <div class="col">
         <div class="card">
             <div class="card-header">
-                <img class="w-100" style="object-fit: cover; object-position: center; height: 300px;" src="asset/img/dana.jpg">
+                <img class="w-100" style="object-fit: cover; object-position: center; height: 300px;" src="asset/img/1.png">
             </div>
             <div class="card-body">
                 <h5 class="card-text">
-                    Dana Is My Name
+                    Pelatihan Wirausaha
                 </h5>
                 <p class="text-secondary">
                     Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cum quos explicabo eveniet at asperiores quaerat sit nulla nemo repudiandae voluptate?
