@@ -19,7 +19,7 @@
                 <p class="text-secondary">
                     Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cum quos explicabo eveniet at asperiores quaerat sit nulla nemo repudiandae voluptate?
                 </p>
-                <a href="#" class="btn btn-primary">Go somewhere</a>
+                <a href="#" class="btn btn-primary">Lihat Selengkapnya</a>
             </div>
         </div>
     </div>
